@@ -1,4 +1,5 @@
 - hosts:  debian_12
+  gather_facts: false
   remote_user: ansible
   tasks:
     - name: apt dist update
