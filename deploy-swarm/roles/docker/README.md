@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Déploiement de docker sur les nodes swarm (manager et workers)
 
 Requirements
 ------------
