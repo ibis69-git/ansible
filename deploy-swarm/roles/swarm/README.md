@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Config/Init de docker swarm sur les nodes
 
 Requirements
 ------------
