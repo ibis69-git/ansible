@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Déploiement d'une stack docker swarm via ansible 
 
 Requirements
 ------------
