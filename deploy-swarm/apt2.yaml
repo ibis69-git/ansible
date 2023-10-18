@@ -1,0 +1,9 @@
+- hosts:  all
+  gather_facts: false
+  remote_user: ansible
+  tasks:
+    - name: apt dist update
+      ansible.builtin.apt:
+        update_cache: yes
+        upgrade: 'dist'
+      become: true
